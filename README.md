@@ -23,7 +23,7 @@ Cascade is one of the **BEST** Blooket cheats out there, featuring advanced anti
 ## 🛠️ How to Use
 
 ### Method 1: Bookmarklet (Safari)
-1. Copy the contents of [`loader.mini.jss`](./loader.mini.js)
+1. Copy the contents of [`loader.mini.js`](./loader.mini.js)
 2. Create a new bookmark in your browser
 3. Set the URL to the copied code (prefix with `javascript:`)
 4. Visit blooket.com and click the bookmark
