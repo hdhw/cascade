@@ -40,12 +40,6 @@ Cascade is one of the **BEST** Blooket cheats out there, featuring advanced anti
 - **Use responsibly** - While protected, misuse may still result in consequences
 - **Keep updated** - Blooket updates may require script updates
 
-## 🔗 External Links
-
-- [GitHub Repository](https://github.com/hdhw/cascade/blob/main/cascade.lol.mini.js) - Latest version and updates
-- [Bookmarklet Version](https://github.com/hdhw/cascade/blob/main/cascade.lol.mini.js) - Direct link to bookmarklet file
-- [Console Version](https://github.com/hdhw/cascade/blob/main/loader.mini.js) - Direct link to console loader
-
 ---
 
 **Disclaimer**: This tool is for educational purposes only. Use at your own risk.
