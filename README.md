@@ -13,8 +13,8 @@ Cascade is one of the **BEST** Blooket cheats out there, featuring advanced anti
 ## 📁 Files
 
 ### Primary Files
-- [`cascade.lol.mini.js`](./cascade.lol.mini.js) - **Best for Bookmarklets** - Minified version optimized for bookmarklet use
-- [`loader.mini.js`](./loader.mini.js) - **Best for Console** - Loader script for console execution
+- [`cascade.lol.mini.js`](./cascade.lol.mini.js) - **Best for Console** - Minified version optimized for console execution
+- [`loader.mini.js`](./loader.mini.js) - **Best for Bookmarklets** - Loader script for bookmarklet use
 
 ### Additional Files
 - [`cascade.lol.js`](./unminified/cascade.lol.js) - Full source code (unminified)
