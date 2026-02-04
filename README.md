@@ -22,8 +22,8 @@ Cascade is one of the **BEST** Blooket cheats out there, featuring advanced anti
 
 ## 🛠️ How to Use
 
-### Method 1: Bookmarklet (Recommended)
-1. Copy the contents of [`cascade.lol.mini.js`](./cascade.lol.mini.js)
+### Method 1: Bookmarklet (Safari)
+1. Copy the contents of [`loader.mini.jss`](./loader.mini.js)
 2. Create a new bookmark in your browser
 3. Set the URL to the copied code (prefix with `javascript:`)
 4. Visit blooket.com and click the bookmark
@@ -31,7 +31,7 @@ Cascade is one of the **BEST** Blooket cheats out there, featuring advanced anti
 ### Method 2: Console
 1. Visit blooket.com
 2. Open browser console (F12)
-3. Copy and paste the contents of [`loader.mini.js`](./loader.mini.js)
+3. Copy and paste the contents of [`cascade.lol.mini.js`](./cascade.lol.mini.js)
 4. Press Enter
 
 ## ⚠️ Important Notes
